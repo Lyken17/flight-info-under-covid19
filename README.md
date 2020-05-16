@@ -14,8 +14,7 @@ Haneda - Dalian
 ## ANA Airline（全日空）
 ANA Airline has limited flights available May 1 and 31	
 https://www.anahd.co.jp/en/jp/topics/notice200206/
-Tokyo(Narita) ⇒ Shanghai(Pudong) 
-NH919 Operates on Sun	
+* Tokyo(Narita) ⇒ Shanghai(Pudong) NH919 Operates on Sun	
 
 ## Korean Airlines（韩国航空）
 Korean Airlines (06/01~06/31)
@@ -23,21 +22,20 @@ Korean Airlines (06/01~06/31)
 * [June Schedule] https://bit.ly/2YOfexZ
 
 Incheon -> Beijing
-KE855/856 (Wed Fri Sun)
-KE155/156 (Mon)
+* KE855/856 (Wed Fri Sun)
+* KE155/156 (Mon)
 
 Incheon -> Shanghai
-KE897/897 (Mon, Wed, Fri, Sun)
+* KE897/897 (Mon, Wed, Fri, Sun)
 
 Incheon -> Guangzhou
-KE865/866 (Mon, Wed, Fri, Sun)
+* KE865/866 (Mon, Wed, Fri, Sun)
 
 Incheon -> Shenyang
-KE831/832 (Mon, Wed, Fri, Sun)
+* KE831/832 (Mon, Wed, Fri, Sun)
 
 Incheon -> Qingdao
-KE861/862 (Mon, Wed, Fri, Sun)
-
+* KE861/862 (Mon, Wed, Fri, Sun)
 
 五月首尔国内航司状态 
 * 厦航	MF872	周一	厦门
@@ -47,25 +45,25 @@ KE861/862 (Mon, Wed, Fri, Sun)
 * 东航	MU5042	周五	浦东
 * 南航	CZ682	周日	沈阳
 
-## 东航
+## China Eastern Airline（东方航空）
 http://www.ceair.com/about/jjgg2016/index.html
 
-## Mexico Airline
-Seoul (ICN) - Will operate through May 10. Then suspended May 11 through May 31. Operations will resume on June 1.
+## Mexico Airline（墨西哥）
+Seoul (ICN) - Will operate through May 10. Then suspended May 11 through May 31. Operations will resume on June 1.
 Tokyo (NRT) - Suspended until May 31. Operations will resume on June 1.
 
-## lufthansa
+## lufthansa（汉莎航空）
 https://www.lufthansa.com/xx/en/homepage
 
-## Delta only provides flight to Seoul / Incheon
+## Delta（达美） only provides flight to Seoul / Incheon
 * Detroit to Seoul-Incheon (up to five times per week)
 * Seattle to Tokyo-Haneda (up to three times per week)
 * Seattle to Seoul-Incheon (up to five times per week)
 https://news.delta.com/where-delta-flying-outside-us-april-updated
 https://news.delta.com/where-delta-flying-may-updated
 
-## Turkish
-Turkish airlines suspends all airlines until May 28, 2020.
+## Turkish（土耳其）
+Turkish airlines suspends all airlines **until May 28, 2020**.
 https://www.turkishairlines.com/zh-int/announcements/coronavirus-outbreak/cancelled-flights/
 
 
