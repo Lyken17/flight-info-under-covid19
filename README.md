@@ -2,6 +2,8 @@ Updated on May 10th.
 
 # Flight Info
 
+[入境政策查询汇总（携程）](https://contents.ctrip.com/huodong/prtemplate/index/PrTemplatePb3opG)
+
 ## JAL Airline（日本航空）
 JAL Airline has limited flights available May 1 and 31	https://www.jal.co.jp/jp/en/info/2020/inter/200413_06/
 * Haneda - Shanghai (Pudong)	 
