@@ -65,8 +65,8 @@ https://news.delta.com/where-delta-flying-outside-us-april-updated
 https://news.delta.com/where-delta-flying-may-updated
 
 ## Turkish（土耳其）
-Turkish airlines suspends all airlines **until May 28, 2020**.
-https://www.turkishairlines.com/zh-int/announcements/coronavirus-outbreak/cancelled-flights/
+
+Last update on May 17, 2020: All international flights have been suspended until [**June 01, 2020**](https://www.turkishairlines.com/zh-int/announcements/coronavirus-outbreak/cancelled-flights)
 
 
 ## Delta
