@@ -6,6 +6,11 @@ Updated on May 10th.
 
 ## JAL Airline（日本航空）
 JAL Airline has limited flights available May 1 and 31	https://www.jal.co.jp/jp/en/info/2020/inter/200413_06/
+
+New plans between June 1 and 31 https://www.jal.co.jp/jp/en/info/2020/inter/200514_06/
+
+New plans between July 1 and 31 https://www.jal.co.jp/jp/en/info/2020/inter/200610_06/
+
 * Haneda - Shanghai (Pudong)	 
 * JL089 / JL080 (Route launch will be delayed)
 
